@@ -61,6 +61,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [GERP++](http://mendel.stanford.edu/SidowLab/downloads/gerp/index.html)
 - [PhyloP and PhastCons](http://compgen.cshl.edu/phast/index.php)
 - [nsSNPAnalyzer](http://snpanalyzer.uthsc.edu/)
+- [SnpEff](http://snpeff.sourceforge.net/) - Variant annotation and effect prediction tool that annotates and predicts the effects of variants on genes (such as amino acid changes). [Software tool]
 - [SNPs&GO](http://snps-and-go.biocomp.unibo.it/snps-and-go)
 - [SNAP2](https://rostlab.org/services/snap2web/)
 - [SNPs3D](http://www.snps3d.org/)
