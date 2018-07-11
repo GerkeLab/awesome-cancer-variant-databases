@@ -21,6 +21,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 
 - [Oncotator](http://portals.broadinstitute.org/oncotator/) - Oncotator is a tool to annotate point mutations and indels with functional data relevant to cancer researchers. Annotations include gene names, functional consequence (e.g. Missense), PolyPhen-2 predictions, and cancer-specific annotations from resources such as COSMIC, Tumorscape, and published MutSig results. [web app, API, Download]
+- [SNPinfo](https://snpinfo.niehs.nih.gov/) - Several tools that comprehensively utilize computational functional estimates, experimental and epidemiological information together with recent genome wide association study (GWAS) results and linkage disequilibrium (LD) information to prioritize SNPs for further genetic mapping studies. [web app]
 - [VarSome](https://varsome.com) - Large, online aggregation database of variants. VarSome is a knowledge base and aggregator for human genomic variants. We were frustrated with the amount of time it takes to look up variants in a number of public databases, and we decided to act. The result is a comprehensive resource that will save you both time and effort when looking up variant information. [example API query](https://api.varsome.com/lookup/15-73027478-T-C)
 
 ### Somatic
