@@ -74,4 +74,4 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [CAROL](http://www.sanger.ac.uk/science/tools/carol)
 - [CHASM](http://wiki.chasmsoftware.org/index.php/Main_Page)
 - [CanDrA](http://bioinformatics.mdanderson.org/main/CanDrA\#CanDrA) - 96 structural, evolutionary and gene features 
-
+- [Variant Effect Predictor](http://useast.ensembl.org/info/docs/tools/vep/index.html) - Determines the effect of your variants (SNPs, insertions, deletions, CNVs or structural variants) on genes, transcripts, and protein sequence, as well as regulatory regions. [Web app, software tool, API]
