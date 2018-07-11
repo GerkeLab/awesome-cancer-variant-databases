@@ -42,6 +42,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [UK10K](http://www.uk10k.org/)
 - [GEUVADIS: Genetic European Variation in Health and Disease](http://www.geuvadis.org/web/geuvadis/home)
 - [SweGen](https://swefreq.nbis.se/#/) - [Web app, API, Download]
+- [TWAS hub](http://twas-hub.org/) - An interactive browser of results from integrative analyses of GWAS and functional data for hundreds of traits and >100k expression models. [Web app]
 
 ## Annotation tools and software
 
