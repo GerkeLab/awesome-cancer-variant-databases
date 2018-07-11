@@ -19,6 +19,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Catalogs
 
+
 - [Oncotator](http://portals.broadinstitute.org/oncotator/) - Oncotator is a tool to annotate point mutations and indels with functional data relevant to cancer researchers. Annotations include gene names, functional consequence (e.g. Missense), PolyPhen-2 predictions, and cancer-specific annotations from resources such as COSMIC, Tumorscape, and published MutSig results. [web app, API, Download]
 - [VarSome](https://varsome.com) - Large, online aggregation database of variants. VarSome is a knowledge base and aggregator for human genomic variants. We were frustrated with the amount of time it takes to look up variants in a number of public databases, and we decided to act. The result is a comprehensive resource that will save you both time and effort when looking up variant information. [example API query](https://api.varsome.com/lookup/15-73027478-T-C)
 
@@ -47,6 +48,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Variant Effect Prediction tools and databases
 
+- [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/) - Functionally annotates genetic variants across several databases for gene/region/filter-based annotation, along with other functionalities. [Software tool, web app at [wANNOVAR](http://wannovar.wglab.org/index.php)]
 - [fannsdb](http://bbglab.irbbarcelona.org/fannsdb/) - Combines ConDEL and TransFIC annotations. FannsDB is a database for Functional ANnotations for Non Synonymous SNVs which contains precalculated scores for several predictors. [Web app, Download]
 - [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP) - [Download]
 - [myvariant.info](http://myvariant.info/) - [Web app, API]
