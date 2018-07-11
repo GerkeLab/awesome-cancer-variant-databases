@@ -24,8 +24,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ### Somatic
 
-- [COSMIC: Catalogue of Somatic Mutations in Cancer](http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/)
-  - downloads: http
+- [COSMIC: Catalogue of Somatic Mutations in Cancer](http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/) [web app, Download]
 - [ISB Cancer Genomics Cloud Pilot Bigquery Table for TCGA](https://bigquery.cloud.google.com/welcome/isb-cgc) [Web database, export as csv, json, etc.]
 
 ### Germline
